@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lopez\\OneDrive\\Documents\\TEC\\III_Semestre\\Estructura_de_Datos\\Proyectos\\Proyecto3A\\Proyecto3A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA7F429-BB5D-4FC9-B9E6-33BCD09102D2}|Proyecto3A.vcxproj|C:\\Users\\lopez\\OneDrive\\Documents\\TEC\\III_Semestre\\Estructura_de_Datos\\Proyectos\\Proyecto3A\\Proyecto3A\\HuffmanDeCompressor.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCA7F429-BB5D-4FC9-B9E6-33BCD09102D2}|Proyecto3A.vcxproj|solutionrelative:HuffmanDeCompressor.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCA7F429-BB5D-4FC9-B9E6-33BCD09102D2}|Proyecto3A.vcxproj|C:\\Users\\lopez\\OneDrive\\Documents\\TEC\\III_Semestre\\Estructura_de_Datos\\Proyectos\\Proyecto3A\\Proyecto3A\\Proyecto3A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCA7F429-BB5D-4FC9-B9E6-33BCD09102D2}|Proyecto3A.vcxproj|solutionrelative:Proyecto3A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HuffmanDeCompressor.hpp",
+              "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Documents\\TEC\\III_Semestre\\Estructura_de_Datos\\Proyectos\\Proyecto3A\\Proyecto3A\\HuffmanDeCompressor.hpp",
+              "RelativeDocumentMoniker": "HuffmanDeCompressor.hpp",
+              "ToolTip": "C:\\Users\\lopez\\OneDrive\\Documents\\TEC\\III_Semestre\\Estructura_de_Datos\\Proyectos\\Proyecto3A\\Proyecto3A\\HuffmanDeCompressor.hpp",
+              "RelativeToolTip": "HuffmanDeCompressor.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T21:54:45.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Proyecto3A.cpp",
+              "DocumentMoniker": "C:\\Users\\lopez\\OneDrive\\Documents\\TEC\\III_Semestre\\Estructura_de_Datos\\Proyectos\\Proyecto3A\\Proyecto3A\\Proyecto3A.cpp",
+              "RelativeDocumentMoniker": "Proyecto3A.cpp",
+              "ToolTip": "C:\\Users\\lopez\\OneDrive\\Documents\\TEC\\III_Semestre\\Estructura_de_Datos\\Proyectos\\Proyecto3A\\Proyecto3A\\Proyecto3A.cpp",
+              "RelativeToolTip": "Proyecto3A.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T21:33:37.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

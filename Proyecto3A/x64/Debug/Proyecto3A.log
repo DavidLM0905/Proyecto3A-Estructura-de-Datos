@@ -1,0 +1,19 @@
+﻿  Proyecto3A.cpp
+C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\include\library\include\strings.hpp(518,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Proyecto3A.cpp')
+  
+C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\include\library\include\BitReader.hpp(32,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Proyecto3A.cpp')
+  
+C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\include\library\include\BitReader.hpp(45,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Proyecto3A.cpp')
+  C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\include\library\include\BitReader.hpp(45,16):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\HuffmanDeCompressor.hpp(227,18):
+  	see reference to function template instantiation 'std::string _binToString<unsigned int>(T)' being compiled
+          with
+          [
+              T=unsigned int
+          ]
+  
+  Proyecto3A.vcxproj -> C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\x64\Debug\Proyecto3A.exe
