@@ -9,11 +9,14 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
 
+    // Menu de opciones del programa
+
     cout << "=================================================" << endl;
     cout << "Bienvenido al compresor y decompresor de archivos" << endl;
     cout << "=================================================" << endl << endl;
 
     while (true) {
+
         cout << "Porfavor digite la opcion que desea utilizar: " << endl << endl;
         cout << "1. Compresor de archivos " << endl;
         cout << "2. Decompresor de archivos " << endl;
@@ -59,6 +62,7 @@ int main(int argc, char* argv[]) {
             break;
 
         default:
+
             cout << "Opcion no valida. Por favor intente de nuevo." << endl;
             break;
 

@@ -59,7 +59,7 @@ T listRemoveFirst(List<T>& lst)
 template<typename T,typename K>
 T* listFind(List<T> lst,K k,int cmpTK(T,K))
 {
-   Node<T>* aux = find<T>(lst.p,k,cmpTK);
+   Node<T>* aux = find<T>(lst.p, k, cmpTK);
    return &(aux->info);
 }
 

@@ -9,7 +9,7 @@ C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos
   (compiling source file 'Proyecto3A.cpp')
   C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\include\library\include\BitReader.hpp(45,16):
   the template instantiation context (the oldest one first) is
-  	C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\HuffmanDeCompressor.hpp(227,18):
+  	C:\Users\lopez\OneDrive\Documents\TEC\III_Semestre\Estructura_de_Datos\Proyectos\Proyecto3A\Proyecto3A\HuffmanDeCompressor.hpp(232,18):
   	see reference to function template instantiation 'std::string _binToString<unsigned int>(T)' being compiled
           with
           [

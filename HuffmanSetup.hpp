@@ -14,7 +14,7 @@ struct HuffmanTable
 // Info de los nodos del arbol
 struct HuffmanTreeInfo
 {
-   unsigned int c;
+   unsigned int c;  
    unsigned int n;
    HuffmanTreeInfo* left;
    HuffmanTreeInfo* right;
@@ -23,10 +23,10 @@ struct HuffmanTreeInfo
 HuffmanTreeInfo* huffmanTreeInfo(int c, long n, HuffmanTreeInfo* left, HuffmanTreeInfo* right)
 {
    HuffmanTreeInfo* node = new HuffmanTreeInfo();
-   node->c=c;
-   node->n=n;
-   node->left=left;
-   node->right=right;
+   node->c = c;
+   node->n = n;
+   node->left = left;
+   node->right = right;
    return node;
 }
 
@@ -98,8 +98,8 @@ HuffmanTreeInfo* huffmanTreeNext(HuffmanTree& tu,string& cod)
    return p;
 }
 
-HuffmanTreeInfo* huffmanTreeCreateDemoTree()
-{
+HuffmanTreeInfo* huffmanTreeCreateDemoTree() {
+
    // nivel 5 (ultimo nivel)
    HuffmanTreeInfo* nS = huffmanTreeInfo('S', 1, NULL, NULL);
    HuffmanTreeInfo* nR = huffmanTreeInfo('R', 1, NULL, NULL);
@@ -137,22 +137,6 @@ HuffmanTreeInfo* huffmanTreeCreateDemoTree()
    HuffmanTreeInfo* a11 = huffmanTreeInfo(256+11, 39, a10, a9);
 
    return a11;
-}
-
-void huffmanTreeDemo()
-{
-   // obtengo el arbol
-   HuffmanTreeInfo* root = huffmanTreeCreateDemoTree();
-
-   // recorro el arbol usando TAD HuffmanTree
-   HuffmanTree ht = huffmanTree(root);
-
-   string cod;
-   while( huffmanTreeHasNext(ht) )
-   {
-      HuffmanTreeInfo* x = huffmanTreeNext(ht,cod);
-      cout << x->c << ", ("<<x->n <<"), " << "[" << cod <<"]" << endl;
-   }
 }
 
 #endif

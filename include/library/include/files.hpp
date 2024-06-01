@@ -18,7 +18,7 @@ void write(FILE* f, T t)
 template<typename T>
 T read(FILE* f)
 {
-   fseek(f,0,SEEK_CUR);
+   fseek(f, 0, SEEK_CUR);
    T t;
    fread(&t,sizeof(T),1,f);
    return t;
